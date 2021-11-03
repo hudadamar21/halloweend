@@ -11,7 +11,7 @@
         <p class="text-white leading-loose tracking-wide w-[80%]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum fringilla ultricies eget amet blandit quis sit duis. Suspendisse fames venenatis volutpat urna dui. Quisque non diam mi ullamcorper.</p>
         <img class="w-12 md:-translate-x-10" src="../assets/images/footer2-img.webp" alt="">
       </div>
-      <div class="grid grid-cols-3 gap-12 text-white">
+      <div class="grid grid-cols-3 justify-center gap-12 text-white">
         <div>
           <h3 class="mb-4 font-bold text-lg">About</h3>
           <div class="flex flex-col gap-3">
@@ -51,7 +51,7 @@
           <img src="../assets/images/social/twitter.svg" alt="">
         </a>
       </div>
-      <p class="md:text-lg font-medium text-white mt-8 tracking-wider">
+      <p class="md:text-lg font-medium text-center text-white mt-8 tracking-wider">
         &copy; Copyright, Halloweend 2021, All rights reserved.
       </p>
     </div>

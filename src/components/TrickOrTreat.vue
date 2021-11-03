@@ -4,7 +4,7 @@
 
 <template>
   <section id="trick-or-treat" class="flex flex-col items-center py-32">
-    <h2 class="mt-10 mb-28 text-6xl font-bold text-white">Trick Or Treat</h2>
+    <h2 class="mt-10 mb-14 md:mb-28 text-5xl md:text-6xl font-bold text-white">Trick Or Treat</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
       <div 
         v-for="(tot, i) of tots" 
