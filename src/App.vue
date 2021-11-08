@@ -8,7 +8,7 @@ import Footer from './components/Footer.vue';
 </script>
 
 <template>
-  <div class="container">
+  <div class="container overflow-x-hidden">
     <Navbar/>
     <Home/>
     <Category/>
